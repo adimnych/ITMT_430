@@ -18,5 +18,5 @@ I am studying Cyber Security, so I really enjoy learning about cryptography, pen
 
 I can speak 4 languages, Ukrainian, Polish, Russian, English.
 
-<img src="mages/Ukrainian_American.jpg"
+<img src="images/Ukrainian_American.jpg"
 
