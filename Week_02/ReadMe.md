@@ -9,10 +9,11 @@
 Uber is a ride-hailing application, which allows customers to order rides, both private and shared with a few taps on their mobile devices. 
 
 As of April 2016, Uber's Market included 
-
-Cities Worldwide: 400+
-Counties Worldwide: 70
-Employees: 6000+
+<ol>
+<li>Cities Worldwide: 400+</li>
+<li>Counties Worldwide: 70</li>
+<li>Employees: 6000+</li>
+</ol>
 </p>
 
 ### What Operating System(s) are used?
