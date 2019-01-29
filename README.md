@@ -1,8 +1,8 @@
 ## Andy Dimnych
 
-<img src="images/Andy.jpg" width="300" )
+<img src="images/Andy.jpg" width="300">
 
-<img src="images/black_hat.jpg"  width="300" )
+<img src="images/black_hat.jpg"  width="300">
       
 ## Where are you from?
 I was born in Ukraine, I came to the United States when I was 10 years old.
