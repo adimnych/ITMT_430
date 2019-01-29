@@ -1,8 +1,7 @@
 # Andy Dimnych
 
-ITMT_430/images/IMG_2277 3.JPG
+<img src= "images/Andy.jpg>
       
-
 # Where are you from?
 
 I was born in Ukraine, I came to the United States when I was 10 years old.
