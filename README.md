@@ -1,6 +1,6 @@
 ## Andy Dimnych
 
-![Andy 9](images/Andy.jpg width="300" "Andy Dimnych" )
+![Andy 9](images/Andy.jpg =300x "Andy Dimnych" )
 
 ![Blackhat](images/black_hat.jpg "Black Hat" width="300" )
       
