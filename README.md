@@ -13,8 +13,10 @@ I was born in Ukraine, I came to the United States when I was 10 years old.
 I am studying Cyber Security, so I really enjoy learning about cryptography, penetration testing encryption. 
 
 <img src="images/Badges.jpg" width="400">
+
 # Something Interesting About You
 
 I can speak 4 languages, Ukrainian, Polish, Russian, English.
 
+<img src="mages/Ukrainian_American.jpg"
 
