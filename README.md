@@ -1,5 +1,7 @@
 # Andy Dimnych
-images/IMG_2277 3.JPG
+
+ITMT_430/images/IMG_2277 3.JPG
+      
 
 # Where are you from?
 
