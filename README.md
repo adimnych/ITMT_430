@@ -1,6 +1,6 @@
 # Andy Dimnych
 
-<img src="images/Andy.jpg">
+<img src="images/Andy.jpg" width="300">
       
 # Where are you from?
 
