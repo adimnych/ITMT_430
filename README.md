@@ -35,5 +35,7 @@ Meterpreter.
 I can speak 4 languages, Ukrainian, Polish, Russian, English. I love to travel and go to music festivals. 
 I have traveled to 9 countries in the past 3 years. 
 
+## Badges I got 
 
+<img src="images/Badges.jpg" width="500">
 
