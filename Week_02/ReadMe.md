@@ -9,11 +9,11 @@
 Uber is a ride-hailing application, which allows customers to order rides, both private and shared with a few taps on their mobile devices. 
 
 As of April 2016, Uber's Market included 
-<ol>
+<ul>
 <li>Cities Worldwide: 400+</li>
 <li>Counties Worldwide: 70</li>
 <li>Employees: 6000+</li>
-</ol>
+</ul>
 </p>
 
 ### What Operating System(s) are used?
@@ -32,12 +32,14 @@ At a lower level, Uber engineers use pre-history :   PHP (outsourced)
 ### What programming languages/frameworks are used?
 
 <p>
-	Dispatch : 		Originally Node.JS, now moving to Go
-	Core Services:  Originally Python, now moving to Go
-	Maps:	 		Python and Java
-	Data :			Python and Java
-	Metrics : 		Go
-	</p>
+<ul>
+	<li>Dispatch : 		Originally Node.JS, now moving to Go</li>
+	<li>Core Services:  Originally Python, now moving to Go</li>
+	<li>Maps:	 		Python and Java</li>
+	<li>Data :			Python and Java</li>
+	<li>Metrics : 		Go</li>
+</ul>
+</p>
 
 ### Why do you think they were used?
 
