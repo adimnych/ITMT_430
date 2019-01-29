@@ -5,7 +5,8 @@
 
 ### What market does that company serve? (What do they do?) And have they always served that market?
 
-<p>Uber is a ride-hailing application, which allows customers to order rides, both private and shared with a few taps on their mobile devices. 
+<p>
+Uber is a ride-hailing application, which allows customers to order rides, both private and shared with a few taps on their mobile devices. 
 
 As of April 2016, Uber's Market included 
 
@@ -16,15 +17,14 @@ Employees: 6000+
 
 ### What Operating System(s) are used?
 <p>
-	At a lower level, Uber engineers use
-	pre-history :   PHP (outsourced)
+At a lower level, Uber engineers use pre-history :   PHP (outsourced)
 	
-	</p>
+</p>
 
 ### Why do you think those were used?
 
 <p> Uber's huge growth spurt has caused much concern for all of its engineers. They have decided to use Microservices to break up all these. With microservices came the good and the bad, but it was said that Uber ultimately needed a tradeoff. 
-
+</p>
 
 
 
@@ -46,7 +46,7 @@ Microservices allowed team to be formed quickly to run independently.
 
 <p> Uber's business runs on a hybrid cloud model, using many different providers and active data centers. Uber does not have a "backup system". 
 
-	One technology that Uber uses is Terraform, which is owned by HashiCorp. It defines infrastructure as code to increase operator productivity. 
+One technology that Uber uses is Terraform, which is owned by HashiCorp. It defines infrastructure as code to increase operator productivity. 
 	</p>
 
 ### What is the current stock price and what was the IPO of the company? (if traded publicly.)
