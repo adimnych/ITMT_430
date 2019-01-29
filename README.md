@@ -1,6 +1,6 @@
 ## Andy Dimnych
 
-![Andy 9](images/Andy.jpg "Andy Dimnych" width="300" )
+![Andy 9](images/Andy.jpg width="300" "Andy Dimnych" )
 
 ![Blackhat](images/black_hat.jpg "Black Hat" width="300" )
       
