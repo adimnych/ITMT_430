@@ -1,6 +1,6 @@
 ## Case Study #1 
 ## Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories
-<img src="images/Uber.jpg" width="400">
+<img src="images/uber.jpg" width="400">
 ## Question and Answers:
 
 ### What market does that company serve? (What do they do?) And have they always served that market?
