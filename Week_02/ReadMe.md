@@ -60,11 +60,9 @@ One technology that Uber uses is Terraform, which is owned by HashiCorp. It defi
 
 ### What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
 <p>
-	One of the issues discussed in this article was how many repositories is the best? One is great, many is bad because it will put stress on the build system. Article talked about how cross cutting changes something they wanted to improve.
-
-	Uber also had performances issues, since RPC's were expensive. Understanding one language is easy, but understanding performance across all the language is what made it a challenge. 
-
-	To overcome Fanout issues, Uber has used tracing. Uber used OpenTracing and Zipkin
+Uber also had performances issues, since RPC's were expensive. Understanding one language is easy, but
+understanding performance across all the language is what made it a challenge. 
+To overcome Fanout issues, Uber has used tracing. Uber used OpenTracing and Zipkin.
 </p>
 
 ### What can you learn from this article relating to technology architecture?
