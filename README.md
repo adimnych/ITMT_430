@@ -1,6 +1,6 @@
 # Andy Dimnych
 
-<img src= "images/Andy.jpg>
+<img src="images/Andy.jpg>
       
 # Where are you from?
 
