@@ -1,7 +1,6 @@
 ## Case Study #1 
 ## Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories
 
-https://github.com/adimnych/ITMT_430/blob/master/images/uber.jpg?raw=true
 
 ## Question and Answers:
       
