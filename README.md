@@ -1,5 +1,5 @@
 # Andy Dimnych
-![Me](images/IMG_2277 3.JPG "Me")
+images/IMG_2277 3.JPG
 
 # Where are you from?
 
