@@ -1,13 +1,13 @@
 ## Andy Dimnych
 
-<img src="images/Andy.jpg" width="300">
+![Andy](images/Andy.jpg "Andy Dimnych")
 
-<img src="images/black_hat.jpg"  width="300">
+![Blackhat](images/black_hat.jpg "Black-Hat")
       
 ## Where are you from?
 I was born in Ukraine, I came to the United States when I was 10 years old.
 
-<img src="images/Ukrainian_American.jpg" width="250">
+![UkrainianAmerican](images/Ukrainian_American.jpg "UkrainianAmerican")
 
 ## IT Interest/ Specialty
 I enjoy learning about cryptography, penetration testing encryption. I love difficulty that my specialty Cyber Forensics and Security graduate program has to offer. I wish to work the for the United States Federal government specificall with the Department of Defense. 
@@ -37,5 +37,5 @@ I have traveled to 9 countries in the past 3 years.
 
 ## Badges I got 
 
-<img src="images/Badges.jpg" width="500">
+![Badges](images/Badges.jpg "Badges")
 
