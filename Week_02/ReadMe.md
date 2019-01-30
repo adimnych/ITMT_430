@@ -3,9 +3,6 @@
 
 ![Uber](/images/uber.jpg)
 
-        
-      
-
 ## Question and Answers:
       
 ### What market does that company serve? (What do they do?) And have they always served that market?
@@ -32,14 +29,12 @@ At a lower level, Uber engineers use pre-history :   PHP (outsourced)
 <p> Uber's huge growth spurt has caused much concern for all of its engineers. They have decided to use Microservices to break up all these. With microservices came the good and the bad, but it was said that Uber ultimately needed a tradeoff. 
 </p>
 
-
-
 ### What programming languages/frameworks are used?
 
 <p>
-<ul>
-	<li>Dispatch : 		Originally Node.JS, now moving to Go</li>
-	<li>Core Services:  Originally Python, now moving to Go</li>
+
+	*Dispatch : 		Originally Node.JS, now moving to Go</li>
+	*Core Services:  Originally Python, now moving to Go</li>
 	<li>Maps:	 		Python and Java</li>
 	<li>Data :			Python and Java</li>
 	<li>Metrics : 		Go</li>
