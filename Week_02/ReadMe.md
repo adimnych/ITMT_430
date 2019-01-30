@@ -32,11 +32,11 @@ At a lower level, Uber engineers use pre-history :   PHP (outsourced)
 ### What programming languages/frameworks are used?
 
 <p>
-
-	*Dispatch : 		Originally Node.JS, now moving to Go</li>
-	*Core Services:  Originally Python, now moving to Go</li>
-	<li>Maps:	 		Python and Java</li>
-	<li>Data :			Python and Java</li>
+<ul>
+	<li>Dispatch : 		Originally Node.JS, now moving to Go</li>
+	<liCore Services:  	Originally Python, now moving to Go</li>
+	<li>Maps:	 	Python and Java</li>
+	<li>Data :		Python and Java</li>
 	<li>Metrics : 		Go</li>
 </ul>
 </p>
