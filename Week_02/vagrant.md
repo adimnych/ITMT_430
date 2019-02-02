@@ -1,3 +1,3 @@
 Created vagrant.md
 
-![Vagrant](/images/Vagrant.jpg)
+![Vagrant](/images/Vagrant.png)
