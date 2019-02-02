@@ -1,1 +1,3 @@
-created vagrant.md
+Created vagrant.md
+
+![Vagrant](/images/Vagrant.jpg)
